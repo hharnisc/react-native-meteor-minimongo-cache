@@ -1,0 +1,12 @@
+{
+  "name": "MinimongoCacheTest",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node_modules/react-native/packager/packager.sh"
+  },
+  "dependencies": {
+    "react-native": "^0.4.4",
+    "ddp-client": "git@github.com:hharnisc/node-ddp-client.git#711452a665667b84c2faeb01f347aebb526376d4"
+  }
+}
